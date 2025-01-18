@@ -1,0 +1,1 @@
+This repository demonstrates a Python code example that leads to an uncommon error.  The `ZeroDivisionError` only manifests under specific conditions. This example highlights the importance of thorough testing across all possible execution paths to catch such subtle errors. The solution shows how to refactor the code to avoid the error entirely. 
